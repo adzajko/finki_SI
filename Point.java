@@ -8,9 +8,12 @@ class Point {
 
 	//TODO setters and getters
 
+	Point() {}
+
 	public void move (char xDirection, char yDirection) {
 		//TODO
 	}
+	void draw(char xDirection, char yDirection) {}
 
 	public void draw () {
 		//TODO
